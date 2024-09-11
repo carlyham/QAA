@@ -106,7 +106,7 @@ Review the [metadata](./metadata) available to you and see if this information l
 - [X] Talapas batch script/code, 
 - [X] FastQC plots, 
 - [X] counts files generated from htseq-count (in a folder would be nice),
-- [ ] pdf report (see below), 
+- [X] pdf report (see below), 
 - [ ] and any additional plots, code, or code output
 
 to GitHub.
@@ -114,7 +114,7 @@ to GitHub.
 ## You should create a pdf file (using Rmarkdown) with a high-level report including:
 - [X] all requested plots
 - [X] answers to questions
-- [ ] mapped/unmapped read counts from PS8 script (in a nicely formatted table)
+- [X] mapped/unmapped read counts from PS8 script (in a nicely formatted table)
     
 The three parts of the assignment should be clearly labeled. Be sure to title and write a descriptive figure caption for each image/graph/table you present. 
 > [!TIP]
